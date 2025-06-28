@@ -17,3 +17,4 @@ Sources:
 - https://github.com/luau/UniversalSynSaveInstance
 - https://robloxscripts.com/use-saveinstance-on-uwp-roblox-copy-and-save-game-scripts-maps-again/
 - https://raw.githubusercontent.com/HTDBarsi/comet/refs/heads/main/saveinstance.lua
+- https://github.com/playvoras/Wave-Saveinstance/commits/main/
